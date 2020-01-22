@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1,HOOQ
+https://m.apkpure.com/id/hooq-watch-movies-tv-shows-live-channels-news/tv.hooq.android/download-apk-info
+
 #EXTINF:-1,ANIPLUS
 https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(386e35b2-14f8-4368-92d7-010d78deaf75)/manifest.mpd
 
