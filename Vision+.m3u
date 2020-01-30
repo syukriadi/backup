@@ -289,9 +289,6 @@ https://origin.canaismax.com/mylive/foxsportshd/video.m3u8
 #EXTINF:-1,Fox Sports 2 Brasil
 https://origin.canaismax.com/live/foxsports2hd/video.m3u8
 
-#EXTINF:-1,Fox Sports 501
-http://45.58.62.92:8080
-
 #EXTINF:-1,RTSH Sport
 http://79.106.48.2/live/rtsh_sport_ott_p3/playlist.m3u8
 
